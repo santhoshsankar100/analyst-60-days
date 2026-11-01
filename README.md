@@ -9,3 +9,5 @@ Day 1: Cleaned a 500-row parts master dataset. Removed [20] duplicates, fixed [8
 Day 2: Pulled supplier and lead time into orders using XLOOKUP; 25 unmatched part numbers found and fixed. See 02_Lookup.xlsx
 
 Day 3: Built supplier, category and plant summaries using SUMIFS, COUNTIFS and AVERAGEIFS; added UNIT_COST and SPEND columns; reconciled totals to source data.
+
+Day 4: Split part numbers, built month/quarter fields, and created dynamic FILTER/UNIQUE lists.
