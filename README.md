@@ -11,3 +11,5 @@ Day 2: Pulled supplier and lead time into orders using XLOOKUP; 25 unmatched par
 Day 3: Built supplier, category and plant summaries using SUMIFS, COUNTIFS and AVERAGEIFS; added UNIT_COST and SPEND columns; reconciled totals to source data.
 
 Day 4: Split part numbers, built month/quarter fields, and created dynamic FILTER/UNIQUE lists.
+
+Day 5: Built PivotTables for supplier spend, category-month trends and plant delivery performance with slicers; totals reconciled to source.
