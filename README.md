@@ -15,3 +15,5 @@ Day 4: Split part numbers, built month/quarter fields, and created dynamic FILTE
 Day 5: Built PivotTables for supplier spend, category-month trends and plant delivery performance with slicers; totals reconciled to source.
 
 Day 6: Cleaned and merged parts and orders with Power Query (merge, append, unpivot); automated refresh and reconciled totals.
+
+Day 7: Built an Excel supply chain dashboard (KPIs, PivotCharts, slicers) from the Power Query-cleaned orders data.
