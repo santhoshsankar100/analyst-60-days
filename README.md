@@ -19,3 +19,5 @@ Day 6: Cleaned and merged parts and orders with Power Query (merge, append, unpi
 Day 7: Built an Excel supply chain dashboard (KPIs, PivotCharts, slicers) from the Power Query-cleaned orders data.
 
 Day 8: Loaded parts and orders into MySQL and wrote filter queries with SELECT, WHERE, LIKE, IN, BETWEEN.
+
+Day 9: Summarised parts and orders with GROUP BY and HAVING (category, supplier, plant, year); results matched the Excel dashboard.
