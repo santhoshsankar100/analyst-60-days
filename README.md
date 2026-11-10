@@ -21,3 +21,5 @@ Day 7: Built an Excel supply chain dashboard (KPIs, PivotCharts, slicers) from t
 Day 8: Loaded parts and orders into MySQL and wrote filter queries with SELECT, WHERE, LIKE, IN, BETWEEN.
 
 Day 9: Summarised parts and orders with GROUP BY and HAVING (category, supplier, plant, year); results matched the Excel dashboard.
+
+Day 10: Joined orders and parts to find master-data gaps, obsolete part orders and never-ordered parts.
