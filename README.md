@@ -23,3 +23,5 @@ Day 8: Loaded parts and orders into MySQL and wrote filter queries with SELECT, 
 Day 9: Summarised parts and orders with GROUP BY and HAVING (category, supplier, plant, year); results matched the Excel dashboard.
 
 Day 10: Joined orders and parts to find master-data gaps, obsolete part orders and never-ordered parts.
+
+Day 11: Used self joins and multi-table joins on supersession and BOM data to find obsolete parts in BOMs, replacements and avoidable orders.
