@@ -25,3 +25,5 @@ Day 9: Summarised parts and orders with GROUP BY and HAVING (category, supplier,
 Day 10: Joined orders and parts to find master-data gaps, obsolete part orders and never-ordered parts.
 
 Day 11: Used self joins and multi-table joins on supersession and BOM data to find obsolete parts in BOMs, replacements and avoidable orders.
+
+Day 12: Used subqueries, CTEs and a recursive CTE to find above-average parts, top-supplier spend share, never-ordered parts and the BOM tree.
