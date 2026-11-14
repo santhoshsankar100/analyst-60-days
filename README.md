@@ -27,3 +27,5 @@ Day 10: Joined orders and parts to find master-data gaps, obsolete part orders a
 Day 11: Used self joins and multi-table joins on supersession and BOM data to find obsolete parts in BOMs, replacements and avoidable orders.
 
 Day 12: Used subqueries, CTEs and a recursive CTE to find above-average parts, top-supplier spend share, never-ordered parts and the BOM tree.
+
+Day 13: Used ROW_NUMBER, RANK, running totals and LAG to rank suppliers, find top parts per category and track month-over-month spend.
