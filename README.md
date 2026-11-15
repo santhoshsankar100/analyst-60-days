@@ -29,3 +29,5 @@ Day 11: Used self joins and multi-table joins on supersession and BOM data to fi
 Day 12: Used subqueries, CTEs and a recursive CTE to find above-average parts, top-supplier spend share, never-ordered parts and the BOM tree.
 
 Day 13: Used ROW_NUMBER, RANK, running totals and LAG to rank suppliers, find top parts per category and track month-over-month spend.
+
+Day 14: Used CASE, date functions, COALESCE and window functions for cost buckets, ABC analysis, NULL handling and data quality checks.
