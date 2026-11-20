@@ -31,3 +31,5 @@ Day 12: Used subqueries, CTEs and a recursive CTE to find above-average parts, t
 Day 13: Used ROW_NUMBER, RANK, running totals and LAG to rank suppliers, find top parts per category and track month-over-month spend.
 
 Day 14: Used CASE, date functions, COALESCE and window functions for cost buckets, ABC analysis, NULL handling and data quality checks.
+
+Day 16: Imported parts and orders into Power BI and built a first report (card, bar chart, column chart, slicer)
