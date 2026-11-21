@@ -33,3 +33,5 @@ Day 13: Used ROW_NUMBER, RANK, running totals and LAG to rank suppliers, find to
 Day 14: Used CASE, date functions, COALESCE and window functions for cost buckets, ABC analysis, NULL handling and data quality checks.
 
 Day 16: Imported parts and orders into Power BI and built a first report (card, bar chart, column chart, slicer)
+
+Day 17: Cleaned and shaped parts and orders in Power BI Power Query (conditional columns, LATE_FLAG, merge, append); built a dynamic Late % card.
