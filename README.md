@@ -35,3 +35,5 @@ Day 14: Used CASE, date functions, COALESCE and window functions for cost bucket
 Day 16: Imported parts and orders into Power BI and built a first report (card, bar chart, column chart, slicer)
 
 Day 17: Cleaned and shaped parts and orders in Power BI Power Query (conditional columns, LATE_FLAG, merge, append); built a dynamic Late % card.
+
+Day 18: Built a star schema in Power BI (Fact_Orders with Dim_Parts, Dim_Plant, Dim_Supplier, Dim_Date) and marked the Date table.
