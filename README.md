@@ -39,3 +39,5 @@ Day 17: Cleaned and shaped parts and orders in Power BI Power Query (conditional
 Day 18: Built a star schema in Power BI (Fact_Orders with Dim_Parts, Dim_Plant, Dim_Supplier, Dim_Date) and marked the Date table.
 
 Day 19: Wrote DAX measures (Total Spend, Late %, Avg Delivery Days, Avg Spend per Order, Distinct Suppliers) and compared measures with calculated columns.
+
+Day 20: Used CALCULATE, FILTER, ALL and SELECTEDVALUE to build late spend, obsolete spend, plant share and category share measures.
