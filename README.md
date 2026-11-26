@@ -41,3 +41,5 @@ Day 18: Built a star schema in Power BI (Fact_Orders with Dim_Parts, Dim_Plant, 
 Day 19: Wrote DAX measures (Total Spend, Late %, Avg Delivery Days, Avg Spend per Order, Distinct Suppliers) and compared measures with calculated columns.
 
 Day 20: Used CALCULATE, FILTER, ALL and SELECTEDVALUE to build late spend, obsolete spend, plant share and category share measures.
+
+Day 21: Built YTD, QTD, YoY, MoM and rolling 3-month DAX measures on a marked date table.
