@@ -43,3 +43,5 @@ Day 19: Wrote DAX measures (Total Spend, Late %, Avg Delivery Days, Avg Spend pe
 Day 20: Used CALCULATE, FILTER, ALL and SELECTEDVALUE to build late spend, obsolete spend, plant share and category share measures.
 
 Day 21: Built YTD, QTD, YoY, MoM and rolling 3-month DAX measures on a marked date table.
+
+Day 22: Built a formatted Power BI performance page with KPI visual, top-10 bar chart, trend line, donut, supplier-by-quarter heatmap matrix and a conditional-formatted plant scorecard.
