@@ -45,3 +45,5 @@ Day 20: Used CALCULATE, FILTER, ALL and SELECTEDVALUE to build late spend, obsol
 Day 21: Built YTD, QTD, YoY, MoM and rolling 3-month DAX measures on a marked date table.
 
 Day 22: Built a formatted Power BI performance page with KPI visual, top-10 bar chart, trend line, donut, supplier-by-quarter heatmap matrix and a conditional-formatted plant scorecard.
+
+Day 23: Added interactivity: supplier drill-through page, report-page tooltip, bookmarks with buttons and edit interactions.
